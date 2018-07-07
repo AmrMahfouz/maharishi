@@ -8,4 +8,4 @@
 .Trash-*
 
 .idea
-.iml
+*.iml
